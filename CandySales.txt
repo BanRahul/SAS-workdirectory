@@ -1,0 +1,32 @@
+
+    Candy Sales Report for Adriana  from Class Room 21
+
+Congratulations you sold 7  Earning profit 8.75
+
+    Candy Sales Report for Nathan  from Class Room 14
+
+Congratulations you sold 19  Earning profit 23.75
+
+    Candy Sales Report for Matthew  from Class Room 14
+
+Congratulations you sold 14  Earning profit 17.5
+
+    Candy Sales Report for Claire  from Class Room 14
+
+Congratulations you sold 11  Earning profit 13.75
+
+    Candy Sales Report for Ian  from Class Room 21
+
+Congratulations you sold 18  Earning profit 22.5
+
+    Candy Sales Report for Chris  from Class Room 14
+
+Congratulations you sold 6  Earning profit 7.5
+
+    Candy Sales Report for Anthony  from Class Room 21
+
+Congratulations you sold 13  Earning profit 16.25
+
+    Candy Sales Report for Erika  from Class Room 21
+
+Congratulations you sold 17  Earning profit 21.25
